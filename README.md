@@ -7,7 +7,9 @@ K-Means and Hierarchical Clustering for unsupervised learning. Additionally, a S
 will be built for user interaction, deployed via Ngrok, and the project will be hosted on GitHub. 
 
 1.1 Objectives: 
+
 ● Perform Data Preprocessing & Cleaning (handle missing values, encoding, scaling). 
+
 ● Apply Dimensionality Reduction (PCA) to retain essential features. 
 ● Implement Feature Selection using statistical methods and ML-based techniques. 
 ● Train Supervised Learning Models (Logistic Regression, Decision Trees, Random 
