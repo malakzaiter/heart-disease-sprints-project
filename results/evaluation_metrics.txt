@@ -1,0 +1,7 @@
+Evaluation Metrics for Random Forest Pipeline
+==================================================
+Accuracy: 0.6491
+Precision: 0.5589
+Recall: 0.6491
+F1: 0.5897
+AUC: 0.8035
